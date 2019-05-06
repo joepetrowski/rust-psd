@@ -1,0 +1,10 @@
+[package]
+name = "psd"
+version = "0.1.0"
+authors = ["joepetrowski <joe@parity.io>"]
+edition = "2018"
+
+[dependencies]
+gnuplot = "0.0.30"
+csv = "1.0.6"
+num-complex = "0.2"
